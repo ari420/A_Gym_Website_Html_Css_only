@@ -11,7 +11,7 @@
 
  https://ari420.github.io/A_Gym_Website_Html_Css_only/
 # ^description^
-This is an strang project with only Html5 and Css3,
+This is an strong project with only Html5 and Css3,
 I did it a practice, but, maby you can boost your skills with my handsome code so just download the zip file and enjoy. there is allso a custom version available in my github, link is down below.
 
 
